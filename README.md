@@ -1,1 +1,1 @@
-# Lab-programs
+# Lab-programs in data structures
